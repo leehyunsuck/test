@@ -1,0 +1,20 @@
+week 02
+- linux commands
+  : ls
+  : pwd
+  : cd
+  : git
+  : touch
+  : vi
+ 
+- git commands
+  : git init
+  : git status
+  : git add
+  : git commit -m ""
+  : git config --global user.email "you@example.com"
+  : git config --global user.name "yourname"
+  : git config --global --list
+
+
+
