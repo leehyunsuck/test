@@ -6,6 +6,8 @@ week 02
   : git
   : touch
   : vi
+  : cat
+  : echo "..." >> filename.type
  
 - git commands
   : git init
@@ -15,6 +17,9 @@ week 02
   : git config --global user.email "you@example.com"
   : git config --global user.name "yourname"
   : git config --global --list
+  : git log
+  : git checkout hashcode
+  : git checkout -
 
 
 
